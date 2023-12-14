@@ -1,12 +1,8 @@
 ## JamJami 👋
 
-<!--
+# SW 중심 대학 공통 해커톤 참여
 
-**Here are some ideas to get you started:**
+# JamJami란?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+손 기능 장애인들을 위한 재활 플랫폼으로
+가정에서 편하게 재활하기 위해서 개발된 플랫폼입니다.
